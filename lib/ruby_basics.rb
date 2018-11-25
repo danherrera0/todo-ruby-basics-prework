@@ -3,7 +3,7 @@ return (num1/num2)
 end
 
 def assign_variable(value)
-value = value_name
+variable_Name = value
 end
 
 def argue(statement)
